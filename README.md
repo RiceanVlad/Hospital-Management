@@ -26,7 +26,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/RiceanVlad/Hospital-Management">
-    <img src="images/logo2.png" alt="Logo" width="222" height="60">
+    <img src="images/logo3.png" alt="Logo" width="222" height="60">
   </a>
 
   <h3 align="center">Hospital-Management</h3>
