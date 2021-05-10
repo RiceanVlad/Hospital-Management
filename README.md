@@ -106,31 +106,38 @@ You just Clone the repo
 
 Here i will post some screenshots to ilustrate how the app works.
 
-1. Login screen
+1. Main screen
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/main1.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/main.png?raw=true)
 
-2. Easy registration
+2. Add clinics
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/createacc.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add clinica.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add succes.png?raw=true)
 
-3. Options after you logged in
+3. Add sections
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/choose.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add sectie.png?raw=true)
 
-4. This is where you scan the smartphone to gain access to the Nokia building
+4. Add pacients
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/scan.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add pacient.png?raw=true)
 
-5. Choose a department and team to join
+5. Hospitalization and patient discharge
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/departamente.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add internare externare.png?raw=true)
 
-6. Manage your profile
+6. General information about the hospital
 
-<a href="https://github.com/RiceanVlad/Hospital-Management">
-    <img src="images/profil.jpg" alt="profile" width="370" height="750">
-  </a>
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/info spital.png?raw=true)
+
+7. Information about a clinic
+
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/info clinica.png?raw=true)
+
+8. Pacients who visit the hospital at least 2 times per year get a discount 
+
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/discount.png?raw=true)
 
 
 <!-- CONTRIBUTING -->
