@@ -164,7 +164,6 @@ Project Link: [https://github.com/RiceanVlad/Hospital-Management](https://github
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [icons8](https://icons8.com/icons/set/android)
 * [GitHub Pages](https://pages.github.com)
 
 
