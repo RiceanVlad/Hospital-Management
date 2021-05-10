@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- Hospital-Management is school project about a Java application that allows you to manage a hospital, by adding clinics, sections and pacients and extract information about pacients.
+ Hospital-Management is school project about a Java application that allows you to manage a hospital, by adding clinics, sections and pacients and extract information about pacients and sections in the hospital.
 
 ### Built With
 
