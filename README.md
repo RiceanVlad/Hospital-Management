@@ -96,7 +96,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-You just Clone the repo (guide: [Clone repo](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)
+You just Clone the repo (guide: [Clone repo](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse) )
    ```sh
    git clone (https://github.com/RiceanVlad/Hospital-Management.git)
    ```
