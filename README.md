@@ -29,10 +29,10 @@
     <img src="images/logo1.png" alt="Logo" width="170" height="80">
   </a>
 
-  <h3 align="center">Badge App</h3>
+  <h3 align="center">Hospital-Management</h3>
 
   <p align="center">
-    Mobile App that replaces physical cards with smartphones
+    Managing a hospital
     <br />
     <a href="https://github.com/RiceanVlad/Hospital-Management"><strong>Explore the docs »</strong></a>
     <br />
@@ -75,18 +75,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- Badge App is a Mobile Application that replaces physical cards for entering Nokia buildings with your smartphone.
-
-Here's why:
-* Harder to forget your phone at home in compare to a physical badge
-* It's more convenient, less cards to worry about
-* Can manage access for different departments
+ Hospital-Management is school project about a Java application that allows you to manage a hospital, by adding clinics, sections and pacients and extract information about pacients.
 
 ### Built With
 
-* [Android Studio](https://developer.android.com/studio)
-* [Glide](https://github.com/bumptech/glide)
-* [Firebase](https://firebase.google.com/)
+* [Eclipse](https://www.eclipse.org/downloads/)
+* [Swing](https://www.eclipse.org/windowbuilder/)
+* [MySQL](https://www.mysql.com/)
 
 
 <!-- GETTING STARTED -->
