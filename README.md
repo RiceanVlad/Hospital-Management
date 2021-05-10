@@ -108,36 +108,36 @@ Here i will post some screenshots to ilustrate how the app works.
 
 1. Main screen
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/main.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/main.PNG?raw=true)
 
 2. Add clinics
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add clinica.png?raw=true)
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add succes.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add clinica.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add succes.PNG?raw=true)
 
 3. Add sections
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add sectie.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add sectie.PNG?raw=true)
 
 4. Add pacients
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add pacient.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add pacient.PNG?raw=true)
 
 5. Hospitalization and patient discharge
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add internare externare.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/add internare externare.PNG?raw=true)
 
 6. General information about the hospital
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/info spital.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/info spital.PNG?raw=true)
 
 7. Information about a clinic
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/info clinica.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/info clinica.PNG?raw=true)
 
 8. Pacients who visit the hospital at least 2 times per year get a discount 
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/discount.png?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/discount.PNG?raw=true)
 
 
 <!-- CONTRIBUTING -->
