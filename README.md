@@ -112,28 +112,28 @@ Here i will post some screenshots to ilustrate how the app works.
 
 2. Add clinics
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/add clinica.PNG?raw=true)
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/add succes.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/addclinica.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/addsucces.PNG?raw=true)
 
 3. Add sections
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/add sectie.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/addsectie.PNG?raw=true)
 
 4. Add pacients
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/add pacient.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/addpacient.PNG?raw=true)
 
 5. Hospitalization and patient discharge
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/add internare externare.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/addinternareexternare.PNG?raw=true)
 
 6. General information about the hospital
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/info spital.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/infospital.PNG?raw=true)
 
 7. Information about a clinic
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/info clinica.PNG?raw=true)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/master/images/infoclinica.PNG?raw=true)
 
 8. Pacients who visit the hospital at least 2 times per year get a discount 
 
