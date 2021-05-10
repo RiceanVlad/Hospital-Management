@@ -108,7 +108,7 @@ Here i will post some screenshots to ilustrate how the app works.
 
 1. Main screen
 
-![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/main.PNG?raw=false)
+![alt text](https://github.com/RiceanVlad/Hospital-Management/blob/main/images/main.PNG?raw=true)
 
 2. Add clinics
 
